@@ -24,9 +24,11 @@ Các giả thuyết: Hàng hóa và xe tải có dạng hình chữ nhật, khô
 
 ### Mô hình Toán học:
 Hàm mục tiêu: Tối đa hóa tỷ lệ sử dụng thể tích xe tải:
+
 $$
 \max Z = \frac{\sum_{i=1}^N l_i w_i h_i U_i}{L \cdot W \cdot H}
 $$
+
 
 Trong đó:
 
